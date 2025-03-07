@@ -1,9 +1,9 @@
 import math
 
 
-b = int(input("b >>> "))
-a = int(input("a >>> "))
-c = int(input("c >>> "))
+b = float(input("b >>> "))
+a = float(input("a >>> "))
+c = float(input("c >>> "))
 
 
 def equation(a: int, b: int, c:int) -> int or str:
